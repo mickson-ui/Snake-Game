@@ -1,0 +1,29 @@
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/bin/Debug/net8.0/SnakeTask.exe
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/bin/Debug/net8.0/SnakeTask.deps.json
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/bin/Debug/net8.0/SnakeTask.runtimeconfig.json
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/bin/Debug/net8.0/SnakeTask.dll
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/bin/Debug/net8.0/SnakeTask.pdb
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/obj/Debug/net8.0/SnakeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/obj/Debug/net8.0/SnakeTask.AssemblyInfoInputs.cache
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/obj/Debug/net8.0/SnakeTask.AssemblyInfo.cs
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/obj/Debug/net8.0/SnakeTask.csproj.CoreCompileInputs.cache
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/obj/Debug/net8.0/SnakeTask.dll
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/obj/Debug/net8.0/refint/SnakeTask.dll
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/obj/Debug/net8.0/SnakeTask.pdb
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/obj/Debug/net8.0/SnakeTask.genruntimeconfig.cache
+C:/Users/default.DESKTOP-TMF65TV/source/repos/SnakeTask/SnakeTask/obj/Debug/net8.0/ref/SnakeTask.dll
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/bin/Debug/net8.0/SnakeTask
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/bin/Debug/net8.0/SnakeTask.deps.json
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/bin/Debug/net8.0/SnakeTask.runtimeconfig.json
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/bin/Debug/net8.0/SnakeTask.dll
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/bin/Debug/net8.0/SnakeTask.pdb
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/obj/Debug/net8.0/SnakeTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/obj/Debug/net8.0/SnakeTask.AssemblyInfoInputs.cache
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/obj/Debug/net8.0/SnakeTask.AssemblyInfo.cs
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/obj/Debug/net8.0/SnakeTask.csproj.CoreCompileInputs.cache
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/obj/Debug/net8.0/SnakeTask.sourcelink.json
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/obj/Debug/net8.0/SnakeTask.dll
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/obj/Debug/net8.0/refint/SnakeTask.dll
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/obj/Debug/net8.0/SnakeTask.pdb
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/obj/Debug/net8.0/SnakeTask.genruntimeconfig.cache
+/Users/micksonbossman/Documents/Personal/Programming/Flutter Projects/Snake-Game/SnakeTask/obj/Debug/net8.0/ref/SnakeTask.dll
